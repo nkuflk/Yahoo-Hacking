@@ -1,4 +1,0 @@
-Yahoo-Hacking
-=============
-
-Yahoo Hacking
